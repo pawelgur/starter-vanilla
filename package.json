@@ -1,0 +1,18 @@
+{
+  "name": "starter-vanilla",
+  "version": "1.0.0",
+  "description": "Simple starter project for framework-less single page app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
